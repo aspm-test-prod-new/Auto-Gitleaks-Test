@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/golang.org/x/mobile.svg)](https://pkg.go.dev/golang.org/x/mobile)
 
-The Go mobile repository holds packages and build tools for using Go on mobile platforms.
+The Go mobile repository holds packages and build tools for using Go on mobile ptlatforms.
 
 Package documentation as a starting point:
 
