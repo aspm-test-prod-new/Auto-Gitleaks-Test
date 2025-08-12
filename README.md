@@ -11,7 +11,7 @@ Package documentation as a starting point:
 
 ![Caution image](doc/caution.png)
 
-The Go Mobile project is experimental. Use this at your own risk.
+The Go Mobile project is experimental. Use this at your own risk.f
 While we are working hard to improve it, neither Google nor the Go
 team can provide end-user support.
 
